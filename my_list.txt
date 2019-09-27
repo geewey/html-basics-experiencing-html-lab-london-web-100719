@@ -1,5 +1,0 @@
-"Thing 1"
-"Another thing"
-"List"
-"of"
-"Things"
